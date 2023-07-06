@@ -279,7 +279,7 @@ h2 {
 }
 
 .contact-pop .content a {
-  background-color: #e90e65;
+  background-color: #090205;
   width: 158px;
   border-radius: 40px;
   color: #fefefe;
@@ -557,7 +557,7 @@ h2 {
 }
 
 .fh5co-recent-work {
-  background: #e90e65;
+  background: #090205;
   padding: 100px 0;
 }
 
@@ -602,7 +602,7 @@ h2 {
 .recent .owl-carousel .owl-nav .owl-prev:hover,
 .recent .owl-carousel .owl-nav .owl-next:hover {
   background: #fff;
-  color: #e90e65;
+  color: #090205;
 }
 
 .recent .owl-carousel .owl-nav .owl-prev span,
@@ -636,7 +636,7 @@ h2 {
 
 .recent .card p {
   font-size: 14px;
-  color: #e90e65;
+  color: #090205;
 }
 
 .recent .card.active,
@@ -1108,7 +1108,7 @@ footer .contact-form {
 }
 
 footer .contact-form h3 {
-  color: #e90e65;
+  color: #090205;
   font-size: 20px;
   text-align: center;
   margin-bottom: 20px;
@@ -1134,7 +1134,7 @@ footer .contact-form textarea {
 }
 
 footer .contact-form button {
-  background: #e90e65;
+  background: #090205;
   width: 140px;
   padding: 13px 0;
   font-size: 15px;
@@ -1148,7 +1148,7 @@ footer .contact-form button {
 
 footer .contact-form button:hover,
 footer .contact-form button:visited {
-  background: #b90b50;
+  background: #090205;
 }
 
 footer .copy {
